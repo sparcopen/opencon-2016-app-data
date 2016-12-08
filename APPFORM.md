@@ -58,7 +58,7 @@ If there are multiple areas you are interested in, please select the one that be
 * Open Research / Open Science
 * Free and Open Source Software
 
-######_Validation: Choose exactly one._
+######_Validation: Select exactly one._
 
 ####Describe yourself in 1-2 sentences.
 Maximum 280 characters (~40 words). It&rsquo;s up to you what information to provide. Many people write something similar to their Twitter or Facebook bio.
@@ -301,7 +301,7 @@ Please select the country where you are a citizen (i.e. where your passport is f
 * Zimbabwe
 * Country Not Listed
 
-######_Validation: Choose exactly one._
+######_Validation: Select exactly one._
 
 ####Country of Residence^
 Please select the country where you currently reside. If you are a resident of multiple countries, pick the one where you will spend the most time this year. If your country isn&rsquo;t listed, see the previous question for instructions.
@@ -511,7 +511,7 @@ Please select the country where you currently reside. If you are a resident of m
 * Zimbabwe
 * Country Not Listed
 
-######_Validation: Choose exactly one._
+######_Validation: Select exactly one._
 
 ####Gender^
 > * Male
@@ -519,7 +519,7 @@ Please select the country where you currently reside. If you are a resident of m
 * Prefer not to answer
 * I will write my gender in the box below: ______________
 
-######_Validation: Choose exactly one._
+######_Validation: Select exactly one._
 
 ####What is your primary occupation?^
 Please check the occupation that best describes what you do. If there are multiple options that equally describe you, you may select up to three.
@@ -564,7 +564,7 @@ If you have worked in multiple careers, please add the years together. Note that
 * 11-15 years
 * 16+ years
 
-######_Validation: Choose exactly one._
+######_Validation: Select exactly one._
 
 ####Which option below best describes your field of expertise or study?^
 > * Agricultural Sciences - Agricultural biotechnology
@@ -611,7 +611,7 @@ If you have worked in multiple careers, please add the years together. Note that
 * Social Sciences - Sociology
 * None of these describe my field of study
 
-######_Validation: Choose exactly one._
+######_Validation: Select exactly one._
 
 ####Do you have any of the following skills?^
 Check all that apply.
